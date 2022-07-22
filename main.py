@@ -8,12 +8,11 @@ from discord.ext.menus import MenuPages, ListPageSource
 bot = commands.Bot(command_prefix="rr?", intents=discord.Intents.all())
 
 current_path = os.getcwd()
+os.chdir(current_path)
 
 for filename in os.listdir('./cogs'):
   if filename.endswith('.py'):
     bot.load_extension(f'cogs.{filename[:-3]}')
-
-os.chdir(current_path)
 
 @bot.event
 async def on_ready():
