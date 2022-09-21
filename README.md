@@ -5,7 +5,7 @@ A simple kit for discord music bot, you can take a deep look here: https://www.y
 If you don't know how to start a local lavalink server you can check out the youtube link ^^^^^^^^^^^^^^
 
 # Some tutorials on how to start server
-It's best to install the jdk.zip file and extract it in the same directory as the bot.py file.
+It's best to install the openjdk-16.0.1_windows-x64_bin.zip file and extract it in the same directory as the bot.py file.
 Then click into the openjdk.16.0.1 folder.
 Click into jdk-16.0.1, then bin.
 Then you open up a command prompt in that directory.
