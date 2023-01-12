@@ -13,9 +13,9 @@ Click into jdk-16.0.1, then bin.
 
 Then you open up a command prompt in that directory.
 
-Check if there is a file called lavalink.jar, if it is then you are good to go!
+Check if there is a file called lavalink.jar, if there is then you are good to go!
 
-After that, just past this command in: java -jar lavalink.jar.
+After that, just past this command in: `java -jar lavalink.jar`.
 
 If you didn't found a file called lavalink.jar, go to this link and follow the instruction below: https://github.com/freyacodes/Lavalink.
 
