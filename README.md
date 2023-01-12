@@ -25,6 +25,6 @@ See the file called Lavalink.jar? Download it!
 
 Then you put the Lavalink.jar in the \openjdk-16.0.1_windows-x64_bin\jdk-16.0.1\bin\ directory.
 
-Then run this command again: java -jar lavalink.jar.
+Then run this command again: `java -jar lavalink.jar`.
 
 It should work!
